@@ -1,8 +1,14 @@
 ### Hi there 👋 my name is samy nagy 
 
 <h2> Computer Science Student && Competitive Programmer (1x ECPC finalistt)</h2>
+
+
 -🌍  I'm based in Cairo
+
+
 -✉️  You can contact me at [E-Mail](samynagy95@gmail.com)
+
+
 -📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ca3lzF6TOTGBnk9P7sMspqDrr_RToz_w/view?usp=sharing)
 
 <!--

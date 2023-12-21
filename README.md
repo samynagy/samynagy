@@ -1,4 +1,4 @@
-### Hi there 👋 my name is samy nagy 
+#### Hi there 👋 my name is samy nagy 
 
 <h2> Computer Science Student && Competitive Programmer (1x ECPC finalistt)</h2>
 

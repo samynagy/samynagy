@@ -1,6 +1,6 @@
 <h1> Hi there 👋 my name is Samy Nagy </h1>
 
-<h2> Computer Science Student && Competitive Programmer (1x ECPC finalist)</h2>
+<h2> Computer Science Student && Competitive Programmer (2x ECPC finalist)</h2>
 
 
 -🌍  I'm based in Cairo
@@ -9,7 +9,6 @@
 -✉️  You can contact me at [E-Mail](mailto:samynagy95@gmail.com)
 
 
--📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ca3lzF6TOTGBnk9P7sMspqDrr_RToz_w/view?usp=sharing)
 
 <!--
 **samynagy/samynagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
